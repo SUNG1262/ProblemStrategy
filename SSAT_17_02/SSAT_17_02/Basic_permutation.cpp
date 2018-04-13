@@ -38,4 +38,3 @@
 //	} while (next_permutation(arr, arr + N));
 //
 //}
-//
