@@ -3,7 +3,6 @@
 ################################################################################
 
 /ProblemStrategy/.vs/ProblemStrategy/v14
-/ProblemStrategy/ProblemStrategy
 /ProblemStrategy/ProblemStrategy.VC.db
 /ProblemStrategy/ProblemStrategy.VC.VC.opendb
 /ProblemStrategy/Debug
@@ -14,3 +13,16 @@
 /SSAT_17_02/.vs/SSAT_17_02/v14
 /SSAT_17_02/Debug
 /SSAT_17_02/SSAT_17_02/Debug
+/ProblemStrategy/ProblemStrategy/Debug/ProblemStrategy.tlog
+/ProblemStrategy/ProblemStrategy/Debug/vc140.pdb
+/ProblemStrategy/ProblemStrategy/Debug/vc140.idb
+/ProblemStrategy/ProblemStrategy/Debug/ProblemStrategy.log
+/ProblemStrategy/ProblemStrategy/Debug/PICNIC_0603.obj
+/ProblemStrategy/ProblemStrategy/Debug/main.obj
+/ProblemStrategy/ProblemStrategy/Debug/josephus._1802.obj.enc
+/ProblemStrategy/ProblemStrategy/Debug/Josephus._1802.obj
+/ProblemStrategy/ProblemStrategy/Debug/boggle_0603.obj.enc
+/ProblemStrategy/ProblemStrategy/Debug/Boggle_0603.obj
+/ProblemStrategy/ProblemStrategy/Debug/BOARDCOVER.obj
+/ProblemStrategy/ProblemStrategy/ProblemStrategy.vcxproj.filters
+/ProblemStrategy/ProblemStrategy/ProblemStrategy.vcxproj
